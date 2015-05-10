@@ -1,0 +1,35 @@
+192.168.1.1
+255.255.255.0
+192.168.1.3
+
+
+
+
+
+Your connection is activated and you can enjoy the seamless browsing at never experienced speed. Please follow the instructions given below to access your account
+
+1. Launch the Web Browser (Internet Explorer, Google Chrome, Firefox, Safari, Opera etc) in your computer
+
+2. Type www.acttv.in in the address bar
+
+3. You will be redirected to portal.acttv.in
+
+4. Enter your USER NAME : 10974623 and PASSWORD: qx41uw
+
+5. Click on Login/Connect
+
+
+
+How to host a wifi network
+
+1) Open Command Prompt in "Run as administrator" mode. Make sure your wi-fi is on.
+
+2) netsh wlan set hostednetwork mode=allow ssid=iBagga key=singh003
+3) netsh wlan start hostednetwork
+4) Go to Open Network and Sharing center
+5) Click on the network which you want to share
+6) Go to Properties-> Sharing Tab
+7) Tick Check box "Allow other network users to connect through this computer's Internet connection"
+8) Select the network from drop down menu Home networking connection the network ssid which you set up in step 1.
+9) Click Ok.
+10) Wireless network is created.
